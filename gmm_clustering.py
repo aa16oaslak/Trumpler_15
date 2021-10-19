@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 from sklearn.mixture import GaussianMixture
 from sklearn import preprocessing
 import numpy as np
